@@ -121,6 +121,7 @@
 	"relative-date-month-other": "{{PLURAL:$1|$1 aşmi}}",
 	"relative-date-year-one": "{{PLURAL:$1|$1 serre}}",
 	"relative-date-year-other": "{{PLURAL:$1|$1serri}}",
+	"open-the-page": "Pele ake",
 	"list-pages-for-csd": "Pelanê namzedan liste ke",
 	"afd-requests": "Pelê ke esterıtışi rê namzedê",
 	"warning": "Teme",
@@ -128,6 +129,8 @@
 	"evidence": "Delil",
 	"sockpuppeteer": "Kaykerê veyvıka desti",
 	"sockpuppet": "Veyvıka desti",
+	"cmr-choose-answer": "Cewab weçine",
 	"cmr-response": "Cewab bıde",
+	"cmr-canned-response": "Cewabo hazır",
 	"additional-rationale": "Weçinıtışê vêşi"
 }
