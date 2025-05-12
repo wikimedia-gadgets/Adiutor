@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Suleiman the Magnificent Television",
+			"YeBoy371",
 			"Ykhwong"
 		]
 	},
@@ -72,6 +73,7 @@
 	"duration": "기간",
 	"select-protection-type": "보호 유형 선택",
 	"rpp-header-title": "문서 보호 요청",
+	"prd-header-title": "제안한 삭제",
 	"new-name": "새 이름",
 	"pmr-header-title": "문서 이동 요청",
 	"aiv-header-title": "사용자 차단 요청",
