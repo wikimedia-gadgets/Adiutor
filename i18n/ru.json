@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Dirruw'o",
+			"Iniquity",
 			"Kaganer",
 			"Mitte27",
 			"Okras",
@@ -89,6 +90,7 @@
 	"temporary": "Временная",
 	"search-article": "Искать статью...",
 	"duration": "Длительность",
+	"prd-deletion-type": "Предлагаемый тип удаления",
 	"select-protection-type": "Выберите тип защиты",
 	"rpp-header-title": "Запрос на защиту страницы",
 	"prd-header-title": "Номинация на удаление",
@@ -104,6 +106,7 @@
 	"page-protection-request": "Запрос на защиту страницы",
 	"recent-changes": "Последние изменения",
 	"tag-page": "Метка страницы",
+	"adiutor-settings": "Параметры Adiutor",
 	"page-more-info-tip-author-title": "Автор:",
 	"page-more-info-tip-date-title": "Дата создания:",
 	"page-more-info-tip-date": "Эта статья была создана $1.",
@@ -180,6 +183,7 @@
 	"friendly-group-names-abusefilter": "фильтр злоупотреблений",
 	"friendly-group-names-autoreviewer": "автопатрулированный",
 	"friendly-group-names-filemover": "Переименовывающий файлы",
+	"friendly-group-names-templateeditor": "редактор шаблонов",
 	"user": "участник",
 	"and": "и",
 	"unblock-button-label": "Разблокировать",
