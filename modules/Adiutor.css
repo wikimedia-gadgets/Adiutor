@@ -426,7 +426,7 @@ ul.cov-url-list {
 	height: 50px;
 	padding-top: 15px !important;
 	font-size: 12px;
-	background-color: #f7f8f9 !important;
+	background-color: var(--background-color-neutral-subtle) !important;
 	border-color: #a2a9b1 !important;
 }
 
