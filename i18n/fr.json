@@ -9,6 +9,7 @@
 			"Jules*",
 			"LD",
 			"SleaY",
+			"Urhixidur",
 			"Vikipolimer"
 		]
 	},
@@ -37,7 +38,7 @@
 	"welcome-date-change-message": "Vous avez fait $2 {{PLURAL:$2|modification|modifications}} sur Wikipédia depuis le $1.",
 	"propose": "Proposer",
 	"adiutor-dashboard-about-adiutor-title": "Qu'est-ce qu'Adiutor ?",
-	"adiutor-dashboard-about-adiutor-description": "Adiutor est un outil conçu permettre aux utilisateurs d'accomplir diverses tâches de maintenance de manière simple et rapide. Toutes les suggestions et les rapports de bugs sont examinés et discutés sur la page de discussion pour assurer le développement continu et l'amélioration de l'outil. La participation active et le soutien de la communauté Wikipédia jouent un rôle important dans la transformation d'Adiutor en un outil plus fonctionnel et plus simple pour les utilisateurs.",
+	"adiutor-dashboard-about-adiutor-description": "Adiutor est un outil conçu permettre aux utilisateurs d’accomplir diverses tâches de maintenance de manière simple et rapide. Toutes les suggestions et les rapports de bogues sont examinés et discutés sur la page de discussion pour assurer le développement continu et l’amélioration de l’outil. La participation active et le soutien de la communauté Wikipédia jouent un rôle important dans la transformation d’Adiutor en un outil plus fonctionnel et plus simple pour les utilisateurs.",
 	"adiutor-dashboard-main-page": "Page d'accueil",
 	"my-talk-page": "Ma page de discussion",
 	"update": "Actualiser",
