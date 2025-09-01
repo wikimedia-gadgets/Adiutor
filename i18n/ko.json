@@ -222,6 +222,8 @@
 	"rfd-module-title": "오디터 - 삭제 요청",
 	"evidence-input-placeholder": "증거를 제공해 주십시오.",
 	"evidence": "증거",
+	"cmr-choose-answer": "응답 선택",
+	"cmr-response": "응답",
 	"related-page-required": "관련 문서를 입력해 주십시오.",
 	"select-a-tag": "태그를 선택해 주십시오."
 }
