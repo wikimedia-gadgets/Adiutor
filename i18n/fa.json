@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Arian Ar",
 			"Darafsh",
 			"Jeeputer",
 			"بهتين شوكت",
@@ -103,6 +104,7 @@
 	"duration": "دوره",
 	"prd-deletion-type": "نوع حذف پیشنهادی",
 	"prd-deletion-type-1": "تولید(حذف پیشنهادی)",
+	"prd-deletion-type-2": "حذف پیشنهادی زندگی‌نامهٔ بدون منبع افراد زنده",
 	"select-protection-type": "حفاظت از نوشتن را انتخاب کنید",
 	"rpp-header-title": "درخواست حفاظت از صفحه",
 	"prd-header-title": "پیشنهاد حذف",
@@ -227,7 +229,7 @@
 	"copyvio-potential-violation": "نقض احتمالی: %$1",
 	"copyvio-potential-violation-low": "نقض احتمالی: %$1 | این صفحه حاوی نقض احتمالی حق نسخه برداری است که به سطح بحرانی نزدیک می شود. {{جنسیت:|شما}} می‌توانید محتوای دارای حق نسخه‌برداری را حذف کنید.",
 	"high-violation-link": "لینک ترافیک بالا",
-	"page-deletion-count-warning": "این صفحه قبلاً $1 بار حذف شده است! (2دلار)",
+	"page-deletion-count-warning": "این صفحه قبلاً $1 بار حذف شده است! ($2)",
 	"log": "ثبت نام کنید",
 	"processing": "او درمان می کند",
 	"full-protection": "پر از محافظت",
@@ -255,7 +257,7 @@
 	"user-blocked": "کاربر مسدود شده است.",
 	"search-tag": "جستجوی برچسب ها ...",
 	"user-partially-blocked-title": "این کاربر تا حدی ممنوع شده است",
-	"user-partially-blocked": "این کاربر به قیمت 3دلار در مقابل 1دلار برای 2دلار ممنوع شد.",
+	"user-partially-blocked": "این کاربر توسط $3 در $1 برای $2 مسدود شده است.",
 	"user-blocked-message-title": "این کاربر مسدود شده است",
 	"user-blocked-message": "این کاربر توسط $3 در $1 در $2 مسدود شده است.",
 	"partially-blocked": "تا حدی مسدود شده است",
