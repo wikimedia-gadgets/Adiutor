@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
+			"McDutchie",
 			"Tacsipacsi",
 			"Vikipolimer"
 		]
@@ -93,7 +94,7 @@
 	"csd-module-title": "This message will be displayed on the action window.",
 	"warning-type": "This message will be displayed on the action window.",
 	"create-request": "This message will be displayed on the action window.",
-	"aticle-work-list-description": "This message will be displayed on the action window.",
+	"aticle-work-list-description": "This message will be displayed on the action window. The text ‘Pin to works’ should be translated as in {{msg-wm|Adiutor-pin-to-works}}.",
 	"protection-type": "This message will be displayed on the protection request action window.",
 	"indefinite": "This message will be displayed on the protection request action window.",
 	"temporary": "This message will be displayed on the protection request action window.",

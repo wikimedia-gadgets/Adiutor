@@ -5,6 +5,7 @@
 			"Caro",
 			"Cupkake4Yoshi",
 			"DraconicDark",
+			"McDutchie",
 			"Sebastian Wallroth",
 			"SehrGuterCode",
 			"TomatoCake"
@@ -66,7 +67,7 @@
 	"protect-against-rebuilding": "Schutz vor Wiederherstellung",
 	"protect-against-rebuilding-help": "Bei Auswahl wird dem Tag für schnelles Löschen ein {{salt}}-Tag hinzugefügt, das den Administrator auffordert, den Erstellungsschutz anzuwenden. Wählen Sie diese Option nur aus, wenn diese Seite dauerhaft erstellt wird.",
 	"username-violation": "Verstoß gegen die Richtlinien für Benutzernamen",
-	"related-page": "Verwandte Seiten",
+	"related-page": "Verwandte Seite",
 	"wrn-related-page-help": "Die Seite, die die Warnung verursacht hat",
 	"wrn-user-mildly": "Dadurch wird der Benutzer leicht stimuliert.",
 	"wrn-user-seriously": "Dies ist eine ernste Warnung an den Nutzer.",
