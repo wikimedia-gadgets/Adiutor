@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"ABPMAB",
-			"McDutchie"
+			"McDutchie",
+			"Siebrand"
 		]
 	},
 	"create": "Aanmaken",
@@ -36,7 +37,7 @@
 	"update": "Bijwerken",
 	"continue": "Doorgaan",
 	"options": "Opties",
-	"article-info": "Artikelinformatie",
+	"article-info": "Paginainformatie",
 	"test-feature": "Deze functie wordt momenteel getest.",
 	"active": "Actief",
 	"suggest-edit": "Bewerking voorstellen",
@@ -54,7 +55,7 @@
 	"rdr-rationale-1": "Verwijdering van niet openbaar gemaakte persoonsgegevens",
 	"rdr-rationale-2": "Blasfemische en beledigende inhoud",
 	"rdr-rationale-3": "Verwijdering van mogelijk lasterlijke informatie",
-	"rdr-rationale-4": "Inhoud die niet met het artikel verband houdt en bedoeld is om de gemeenschap te provoceren",
+	"rdr-rationale-4": "Inhoud geen relatie heeft met de pagina en bedoeld is om de gemeenschap te provoceren",
 	"rdr-rationale-5": "Verwijdering van inbreuk op het auteursrecht",
 	"cancel": "Annuleren",
 	"vandalism": "Vandalisme",
@@ -92,11 +93,11 @@
 	"csd-module-title": "Adiutor - Aanvraag snelle verwijdering",
 	"warning-type": "Soort waarschuwing",
 	"create-request": "Aanvraag maken",
-	"aticle-work-list-description": "Hiermee krijgt u een overzicht van de artikelen waar u aan werkt, zodat u er snel bij kunt. Gebruik daartoe de knop ‘Vastzetten aan mijn werken’ onder een artikel.",
+	"aticle-work-list-description": "Hiermee krijgt u een overzicht van de pagina's waar u aan werkt, zodat u er snel bij kunt. Gebruik daartoe de knop ‘Vastzetten aan mijn werken’ onder een pagina.",
 	"protection-type": "Soort beveiliging",
 	"indefinite": "Onbepaald",
 	"temporary": "Tijdelijk",
-	"search-article": "Artikel zoeken…",
+	"search-article": "Pagina zoeken…",
 	"prd-deletion-rationale": "Motivering voor de voorgestelde verwijdering",
 	"duration": "Duur",
 	"prd-deletion-type": "Type van de voorgestelde verwijdering",
@@ -110,7 +111,7 @@
 	"csd-header-title": "Motivering voor de snelle verwijdering",
 	"csd-header-description": "Kies hieronder de juiste reden voor het verwijderen van deze pagina.",
 	"rpp-header-description": "Deze tool wordt gebruikt voor volledige en semi-beveiliging. Lees de pagina Help:Beveiligde pagina's.",
-	"prd-header-description": "Het voorstel suggereert dat het artikel onbetwistbaar kan worden verwijderd, ook al voldoet het niet aan de strengere vereisten voor snelle verwijdering. Overweeg dus het artikel te verwijderen.",
+	"prd-header-description": "Het voorstel suggereert dat de pagina onbetwistbaar kan worden verwijderd, ook al voldoet die niet aan de strengere vereisten voor snelle verwijdering. Overweeg dus de pagina te verwijderen.",
 	"wrn-dialog-description": "U geeft deze gebruiker nu een waarschuwing. Deze waarschuwing verschijnt op de overlegpagina van de gebruiker.",
 	"aiv-rationale-1": "Vandalisme ondanks meerdere waarschuwingen.",
 	"aiv-rationale-2": "Vandalisme gepleegd na het verstrijken van de blokkadeperiode (binnen 1 dag).",
