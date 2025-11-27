@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Adriendelucca",
+			"Bananax47",
 			"BlueCamille",
 			"Eihel",
 			"EmDashUser002",
@@ -119,11 +120,11 @@
 	"prd-header-title": "Suppression proposée",
 	"csd-header-title": "Motif de suppression immédiate",
 	"csd-header-description": "Veuillez choisir la raison appropriée pour la suppression de cette page parmi les options ci-dessous.",
-	"rpp-header-description": "Cet outil est utilisée pour la protection complète et la semi-protection. Veuillez consulter la page Wikipédia : Politique de protection.",
+	"rpp-header-description": "Cet outil est utilisée pour la protection complète et la semi-protection. Veuillez consulter la page Wikipédia:Niveaux de protection.",
 	"prd-header-description": "La proposition suggère que l'article peut incontestablement être supprimé, même s'il ne répond pas aux critères plus stricts et exigeants requis pour une suppression rapide. Veuillez envisager de supprimer cet article.",
 	"wrn-dialog-description": "{{GENDER:|Vous}} êtes en train d’adresser un avertissement à cet utilisateur ; cet avertissement apparaîtra sur la page de discussion de l’utilisateur.",
-	"aiv-rationale-1": "Des actes de vandalisme malgré de multiples avertissements.",
-	"aiv-rationale-2": "Actes de vandalismes commis après la fin du blocus (dans un délai d'un jour).",
+	"aiv-rationale-1": "Actes de vandalismes commis malgré de multiples avertissements.",
+	"aiv-rationale-2": "Actes de vandalismes commis après la fin d'un blocage (dans un délai d'un jour).",
 	"aiv-rationale-3": "Un compte créé uniquement à des fins de vandalisme.",
 	"aiv-rationale-4": "Un compte uniquement destiné à des fins publicitaires.",
 	"aiv-rationale-5": "Spambot ou compte compromis.",
