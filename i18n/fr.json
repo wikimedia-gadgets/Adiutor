@@ -114,7 +114,7 @@
 	"prd-deletion-type-1": "PROD (Suppression proposée)",
 	"prd-deletion-type-2": "BLP PROD (Suppression proposées de biographies sans sources)",
 	"prd-deletion-type-1-help": "Supression proposée par WP:PROD",
-	"prd-deletion-type-2-help": "Suppression proposée de l'entièreté des biographiques sans sources d'individus vivants, suivant les lignes directrices établies en [[WP:BLPPROD]].",
+	"prd-deletion-type-2-help": "Suppression proposée de l’entièreté des biographiques sans sources d’individus vivants.",
 	"select-protection-type": "Choisir le type de protection",
 	"rpp-header-title": "Demande de protection de la page",
 	"prd-header-title": "Suppression proposée",
