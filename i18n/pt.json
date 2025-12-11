@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Albertoleoncio",
 			"Mansil alfalb",
 			"RodrigoMoreira2008"
 		]
@@ -199,7 +200,7 @@
 	"anonymous-ipv6-user": "Utilizador anónimo de IPv6",
 	"invalid-username": "Nome de utilizador inválido",
 	"friendly-group-names-user": "utilizador",
-	"friendly-group-names-autoconfirmed": "auto confirmado",
+	"friendly-group-names-autoconfirmed": "autoconfirmado",
 	"friendly-group-names-sysop": "operador de sistemas",
 	"friendly-group-names-accountcreator": "criador de conta",
 	"friendly-group-names-import": "importador",
