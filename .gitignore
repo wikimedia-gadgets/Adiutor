@@ -21,6 +21,9 @@ tmp/
 # Node modules (if any frontend work is being done)
 node_modules/
 
+# Legacy build output (no longer used)
+modules/
+
 # Local environment files
 .env
 .env.local

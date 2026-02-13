@@ -1,0 +1,159 @@
+{
+	"//": "You can utilize the parameters within this file, which include: $1 page name, $2 reason data, and $3 reason value",
+	"speedyDeletionReasons": [
+		{
+			"name": "Articles",
+			"namespace": 0,
+			"reasons": [
+				{
+					"namespace": 0,
+					"value": "A1",
+					"data": "[[WP:CSD#A1|CSD:A1]]: Test article",
+					"selected": false,
+					"label": "A1 - Article created for test",
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Files",
+			"namespace": 6,
+			"reasons": [
+				{
+					"namespace": 6,
+					"value": "F1",
+					"data": "[[WP:CSD#F1|CSD:F1]]: Test file",
+					"selected": false,
+					"label": "F1 - File uploaded for test",
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Categories",
+			"namespace": 14,
+			"reasons": [
+				{
+					"data": "[[WP:CSD#C1|CSD:C1]]: Test category",
+					"value": "C1",
+					"selected": false,
+					"label": "C1 - Category created for test",
+					"namespace": 14,
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "User pages",
+			"namespace": 2,
+			"reasons": [
+				{
+					"data": "[[WP:CSD#U1|CSD:U1]]: Test user page",
+					"value": "U1",
+					"selected": false,
+					"label": "U1 - User page created for test",
+					"namespace": 2,
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Templates",
+			"namespace": 10,
+			"reasons": [
+				{
+					"data": "[[WP:CSD#T1|CSD:T1]]: Test template",
+					"value": "T1",
+					"selected": false,
+					"label": "T1 - Template created for test",
+					"namespace": 10,
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Portals",
+			"namespace": 100,
+			"reasons": [
+				{
+					"data": "[[WP:CSD#T1|CSD:P1]]: Test portal",
+					"value": "P1",
+					"selected": false,
+					"label": "P1 - Portal created for test",
+					"namespace": 100,
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "General",
+			"namespace": "general",
+			"reasons": [
+				{
+					"data": "[[WP:CSD#G1|CSD:G1]]: A test page",
+					"value": "G1",
+					"selected": false,
+					"label": "G1 - A test page",
+					"namespace": "general",
+					"help": "This is a help text about the criteria"
+				},
+				{
+					"data": "[[WP:CSD#G2|CSD:G2]]: Copyright violation",
+					"value": "G2",
+					"selected": false,
+					"label": "G2 - Copyright violation",
+					"namespace": "general",
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Redirects",
+			"namespace": "redirect",
+			"reasons": [
+				{
+					"data": "[[WP:CSD#R1|CSD:R1]]: A test redirect",
+					"value": "R1",
+					"selected": false,
+					"label": "R1 - A test redirect",
+					"namespace": "redirect",
+					"help": "This is a help text about the criteria"
+				}
+			]
+		},
+		{
+			"name": "Other",
+			"namespace": "other",
+			"reasons": [
+				{
+					"data": "[[Other|other]]: reason",
+					"value": "01",
+					"selected": false,
+					"label": "Other reason",
+					"namespace": "other",
+					"help": "This is a help text about the criteria"
+				}
+			]
+		}
+	],
+	"csdTemplateStartSingleReason": "{{db|",
+	"csdTemplateStartMultipleReason": "{{db-multiple|",
+	"useVerticalVarForSeparatingMultipleReasons": true,
+	"csdTemplatePostfixReasonData": false,
+	"csdTemplatePostfixReasonValue": true,
+	"reasonAndSeparator": "|",
+	"speedyDeletionPolicyLink": "Wikipedia:Criteria_for_speedy_deletion",
+	"speedyDeletionPolicyPageShortcut": "WP:CSD",
+	"apiPostSummaryforTalkPage": "[[WP:CSD#G1]]: Discussion page of the deleted article",
+	"apiPostSummaryforLog": "Log record of the speedy deletion request of page [[$1]] is being kept.",
+	"apiPostSummary": "Speedy deletion requested for page [[$1]].",
+	"csdNotificationTemplate": "{{subst:CSD-Notification|1=$1|2=$2}}",
+	"talkPagePrefix": "Talk:",
+	"userPagePrefix": "User:",
+	"userTalkPagePrefix": "User talk:",
+	"localLangCode": "en-US",
+	"singleReasonSummary": "Requesting speedy deletion of the page due to reason $2.",
+	"multipleReasonSummary": "Requesting speedy deletion of the page due to reasons $2.",
+	"csdCategoryForBatchDeletion": "Category:Pages nominated for speedy deletion",
+	"copyVioReasonValue": "G2"
+}

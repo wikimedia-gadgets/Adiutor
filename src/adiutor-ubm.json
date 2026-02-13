@@ -1,0 +1,92 @@
+{
+	"blockDurations": [
+		{
+			"data": "infinity",
+			"label": "Indefinite"
+		},
+		{
+			"data": "3 hours",
+			"label": "3 hours"
+		},
+		{
+			"data": "12 hours",
+			"label": "12 hours"
+		},
+		{
+			"data": "24 hours",
+			"label": "24 hours"
+		},
+		{
+			"data": "32 hours",
+			"label": "32 hours"
+		},
+		{
+			"data": "36 hours",
+			"label": "36 hours"
+		},
+		{
+			"data": "48 hours",
+			"label": "48 hours"
+		},
+		{
+			"data": "60 hours",
+			"label": "60 hours"
+		},
+		{
+			"data": "72 hours",
+			"label": "72 hours"
+		},
+		{
+			"data": "1 week",
+			"label": "1 week"
+		},
+		{
+			"data": "2 weeks",
+			"label": "2 weeks"
+		},
+		{
+			"data": "1 month",
+			"label": "1 month"
+		},
+		{
+			"data": "3 months",
+			"label": "3 months"
+		},
+		{
+			"data": "6 months",
+			"label": "6 months"
+		},
+		{
+			"data": "1 year",
+			"label": "1 year"
+		},
+		{
+			"data": "2 years",
+			"label": "2 years"
+		},
+		{
+			"data": "3 years",
+			"label": "3 years"
+		}
+	],
+	"blockReasons": [
+		{
+			"data": "Vandalism",
+			"label": "Vandalism"
+		},
+		{
+			"data": " [[WP:Vandalism-only account|Vandalism-only account]]",
+			"label": "Vandalism-only account"
+		},
+		{
+			"data": "[[WP:Copyright violations|Copyright infringement]]",
+			"label": "Copyright infringement"
+		}
+	],
+	"noticeBoardTitle": "Wikipedia:Administrator intervention against vandalism",
+	"warningMessageTitle": "Warning!",
+	"userPagePrefix": "User:",
+	"userTalkPagePrefix": "User talk:",
+	"specialContributions": "Special:Contributions/",
+	"apiPostSummary": "Blocked user has been removed from the list."
+}

@@ -1,0 +1,16 @@
+{
+	"extends": [
+		"wikimedia/server"
+	],
+	"env": {
+		"node": true
+	},
+	"parserOptions": {
+		"ecmaVersion": 2018
+	},
+	"rules": {
+		"es-x/no-async-functions": "off",
+		"n/no-process-exit": "off",
+		"no-console": "off"
+	}
+}

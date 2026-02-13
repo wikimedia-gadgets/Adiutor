@@ -22,6 +22,10 @@
 		"issues": "https://phabricator.wikimedia.org/tag/adiutor/"
 	},
 	"scripts": {
+		"start": "node scripts/dev-server.js",
+		"deploy": "node scripts/deploy.js",
+		"deploy:definition": "node scripts/deploy.js --definition",
+		"deploy:dry": "node scripts/deploy.js --dry-run",
 		"lint:fix": "eslint . --fix",
 		"lint": "eslint ."
 	},
