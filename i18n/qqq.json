@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
+			"Eihel",
 			"McDutchie",
 			"Tacsipacsi",
 			"Vikipolimer"
@@ -105,7 +106,7 @@
 	"prd-deletion-type-1": "This message will be displayed on the window while proposing article for deletion",
 	"prd-deletion-type-2": "This message will be displayed on the window while proposing article for deletion",
 	"prd-deletion-type-1-help": "This message will be displayed on the window while proposing article for deletion",
-	"prd-deletion-type-2-help": "This message will be displayed on the window while proposing article for deletion",
+	"prd-deletion-type-2-help": "Suppression proposée des biographies entièrement non sourcées d’individus vivants, conformément aux directives énoncées dans [https://en.wikipedia.org/wiki/Wikipedia:Proposed_deletion_of_biographies_of_living_people WP:BLPPROD].",
 	"select-protection-type": "This message will be displayed on the protection request action window.",
 	"rpp-header-title": "This message will be displayed on the protection request action window.",
 	"prd-header-title": "This message will be displayed on the window while proposing article for deletion",
