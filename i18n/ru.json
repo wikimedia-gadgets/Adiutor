@@ -6,7 +6,8 @@
 			"Kaganer",
 			"Mitte27",
 			"Okras",
-			"Rich Flight22"
+			"Rich Flight22",
+			"Shabe"
 		]
 	},
 	"create": "Создать",
@@ -168,7 +169,7 @@
 	"friendly-group-names-user": "участник",
 	"friendly-group-names-autoconfirmed": "автоподтверждённый участник",
 	"friendly-group-names-sysop": "администратор",
-	"friendly-group-names-accountcreator": "создатель учетной записи",
+	"friendly-group-names-accountcreator": "создатель учётной записи",
 	"friendly-group-names-import": "импортирующий",
 	"friendly-group-names-interface-editor": "редактор интерфейса",
 	"friendly-group-names-interface-admin": "администратор интерфейса",
