@@ -5,6 +5,7 @@
 			"Jelican9",
 			"Rapsar",
 			"SaldırganSincap",
+			"ToprakM",
 			"Vikipolimer"
 		]
 	},
@@ -119,7 +120,7 @@
 	"aiv-rationale-2": "Engeli bittikten sonra (1 gün içinde) yapılan vandalizm",
 	"aiv-rationale-3": "Sadece vandalizm amaçlı bir hesap.",
 	"aiv-rationale-4": "Sadece reklam amaçlı bir hesap.",
-	"aiv-rationale-5": "Spambot veya şifresi ele geçirilmiş hesap.",
+	"aiv-rationale-5": "Spambot veya ele geçirilmiş hesap.",
 	"aiv-rationale-6": "Şaşırtıcı, yanlış yönlendirici, sorun yaratıcı kullanıcı adı.",
 	"aiv-rationale-7": "Ticari marka içeren kullanıcı adı.",
 	"aiv-rationale-8": "Hâlen yaşayan veya yeni ölmüş tanınmış kişi adı.",
