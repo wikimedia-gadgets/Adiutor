@@ -210,7 +210,7 @@
 	"block-duration": "차단 기간",
 	"block-reason": "차단 이유",
 	"other-reason": "다른 이유",
-	"please-select-block-duration-reason": "이 작업를 진행하려면 차단 기간과 이유를 선택하세요.",
+	"please-select-block-duration-reason": "이 작업을 진행하려면 차단 기간과 이유를 선택하세요.",
 	"user-blocking": "사용자 차단",
 	"block": "차단",
 	"you-can-not-block-yourself": "{{GENDER:|자기 자신}}을 차단할 수 없습니다",
