@@ -164,7 +164,7 @@
 	"page-more-info-tip-date": "Deze pagina is gemaakt door $1.",
 	"page-more-info-tip-keyword-title": "Aantal woorden:",
 	"page-more-info-tip-keyword": "Deze pagina bestaat uit $1 {{PLURAL:$1|woord|woorden}}.",
-	"show-inline-page-info": "Inline pagina-informatie weergeven",
+	"show-inline-page-info": "Ingebedde pagina-informatie weergeven",
 	"show-inline-page-info-description": "Wanneer {{GENDER:|u}} dit aanvinkt, wordt er een widget met informatie over de pagina bovenaan de pagina toegevoegd.",
 	"choose-duration": "Selecteer duur",
 	"infinity": "Onbeperkt",
