@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"EGobi",
 			"Felipe L. Ewald"
 		]
 	},
@@ -250,7 +251,7 @@
 	"article-successfully-deleted": "Artigo excluído com sucesso.",
 	"operation-completed": "Operação concluída!",
 	"operation-failed": "A operação falhou!",
-	"no-namespace-reason-for-csd-title": "Nenhum motivo de exclusão rápida foi especificado para esse namespace.",
+	"no-namespace-reason-for-csd-title": "Nenhum motivo de eliminação rápida foi especificado para este espaço nominal.",
 	"no-namespace-reason-for-csd": "Selecione um dos motivos gerais à direita.",
 	"batch-deletion-success": "Exclusão de lote concluída com êxito",
 	"user-blocked": "Usuário bloqueado.",
