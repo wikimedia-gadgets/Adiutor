@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"EGobi",
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"NenhumaFênix"
 		]
 	},
 	"create": "Criar",
@@ -211,7 +212,7 @@
 	"please-select-block-duration-reason": "Selecione a duração do bloqueio e o motivo para prosseguir com essa ação.",
 	"user-blocking": "Bloqueio de usuários",
 	"block": "Bloco",
-	"you-can-not-block-yourself": "{{GENDER:|Você}} não pode bloquear {{GENDER:|você mesmo}}",
+	"you-can-not-block-yourself": "{{GENDER:|Você}} não pode bloquear-se",
 	"adiutor-dashboard-total-edit-title": "Edição total",
 	"adiutor-dashboard-total-edit": "{{GENDER:|Você}} fez um total de $1 {{PLURAL:$1|edição|edições}} através de Adiutor.",
 	"adiutor-dashboard-csd-requests-title": "Exclusão rápida",

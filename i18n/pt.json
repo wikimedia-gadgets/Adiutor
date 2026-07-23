@@ -3,6 +3,7 @@
 		"authors": [
 			"Albertoleoncio",
 			"Mansil alfalb",
+			"NenhumaFênix",
 			"RodrigoMoreira2008"
 		]
 	},
@@ -160,7 +161,7 @@
 	"please-select-block-duration-reason": "Por favor, selecione a duração e o motivo do bloqueio para prosseguir com esta ação.",
 	"user-blocking": "Bloqueio de utilizador",
 	"block": "Bloquear",
-	"you-can-not-block-yourself": "{{GENDER:|Você}} não pode bloquear {{GENDER:|a si mesmo}}",
+	"you-can-not-block-yourself": "{{GENDER:|Você}} não pode bloquear {{GENDER:|a si mesmo|a si mesma|a si}}",
 	"adiutor-dashboard-total-edit-title": "Total de edições",
 	"adiutor-dashboard-csd-requests-title": "Eliminação rápida",
 	"adiutor-dashboard-user-warnings-title": "Aviso do utilizador",
