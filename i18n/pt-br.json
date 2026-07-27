@@ -293,7 +293,7 @@
 	"user": "usuário",
 	"registered-user": "usuário registrado",
 	"and": "e",
-	"registration-info": "registrado há $1 atrás.",
+	"registration-info": "registrado há $1.",
 	"last-edited-default": "Informações sobre a última edição não disponíveis",
 	"last-edited": "Última edição $1 atrás",
 	"has-x-edit-count": "Este usuário tem edições de $1",
