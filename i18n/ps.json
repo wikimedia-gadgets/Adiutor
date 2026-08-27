@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"باران",
 			"شاه زمان پټان"
 		]
 	},
@@ -129,5 +130,9 @@
 	"user": "کارن",
 	"registered-user": "نوم‌ليکلی کارن",
 	"and": "او",
-	"registration-info": "$1 دمخه نوم‌ليکلی."
+	"registration-info": "$1 دمخه نوم‌ليکلی.",
+	"warning": "گواښنه",
+	"this": "دا",
+	"rfd-header-title": "د ړنگولو غوښتنه",
+	"rfd-rationale-placeholder": "ولې بايد دا دوتنه ړنگه شي؟"
 }
